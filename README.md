@@ -1,2 +1,2 @@
 # Game2048
-Have my mercy goodsir
+Have mercy goodsir
