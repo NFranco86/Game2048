@@ -332,6 +332,9 @@ public class Game2048 extends JPanel {
 	//But couldn't figure it what was going wrong and why my highscore.dat file only read
 	//myscore
 	
+	//in case you'd like try to wrap your head around what I did
+	//this is the link I used https://www.youtube.com/watch?v=8gMd0ftWp_Y&t=1397s
+	
 
 	public String GetHighScore() {
 		FileReader readFile = null;
