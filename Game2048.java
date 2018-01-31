@@ -319,6 +319,19 @@ public class Game2048 extends JPanel {
 
 	// TODO: function to get the high score from a file here and
 	// if it's higher than the high score in the file
+	
+	//I tried to follow a method I found on Youtube since it used all the imports
+	//like BufferedReader, FileReader, etc
+	//Here are the lines that used the methods I tried to emulate
+	//Line 31 I tried to make the highscore a string that I would later turn into a int
+	//Line 329 I tried to make a GetHighScore object using the readers
+	//Line 363 I wasn't too sure of why it went there, more so just following the guide I had
+	//Line 445 I made the text that shows up on the gameboard
+	//Line 451 I tried to use myScore and highScore to change the highscore file
+	//I know that with what I created I needed to use the "CheckScore(); somewhere in the code
+	//But couldn't figure it what was going wrong and why my highscore.dat file only read
+	//myscore
+	
 
 	public String GetHighScore() {
 		FileReader readFile = null;
