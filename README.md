@@ -1,2 +1,2 @@
 # Game2048
-Have mercy good sir
+A classic game of 2048... in progress
